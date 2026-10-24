@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/GridVize-2.png" alt="GridVize Logo" width="600"/>
+  <img src="Assets/GridVize-2.png" alt="GridVize Logo" width="850"/>
 </p>
 
 <p align="center">
