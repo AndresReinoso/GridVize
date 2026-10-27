@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- GridVize Logo Banner -->
-  <img src="../assets/gridvize_logo.png" alt="GridVize Logo" width="450" />
+  <img src=["../assets/gridvize_logo.png"](https://github.com/AndresReinoso/GridVize/blob/main/Assets/GridVize-2.png) alt="GridVize Logo" width="450" />
 
   ### Visual Data Intelligence for Global Energy Systems
 
