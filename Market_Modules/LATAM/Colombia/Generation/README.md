@@ -24,10 +24,14 @@ The spatial distribution of the SIN reflects a distinct geographic divide: hydro
 
 The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anchored by hydroelectric power and thermal backup, the fleet now exhibits accelerating technological diversification alongside regional concentration across key departments.
 
-<p align="left">
+<br />
+
+<p align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="../Assets/Tecnolog%C3%ADas.png" alt="Technology Breakdown" width="48%" />
   <img src="../Assets/CapacityByDept.png" alt="Capacity by Department" width="48%" />
 </p>
+
+<br />
 
 - **Decadal Expansion Trends:** For over five decades, Colombia’s power matrix maintained steady growth dominated almost exclusively by large hydroelectric reservoirs and thermal power plants. However, starting this decade, the rapid entry of non-conventional renewable energy (FNCER) technologies has begun shifting the cumulative expansion profile.
 
