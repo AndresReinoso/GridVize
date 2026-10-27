@@ -36,10 +36,10 @@ Inside each regional module, the grid is modeled across four core operational pi
 
 | Module Pillar | Focus & Analytical Scope | Primary Output | Status |
 | :--- | :--- | :--- | :--- |
-| 01. Generation & Expansion | Installed capacity breakdown, spatial asset distribution, solar commissioning velocity. | Interactive Executive Dashboard & GeoJSON Maps | Live |
-| 02. Transmission System | Regional congestion nodes, substation capacity limits, and grid tie-lines. | Spatial Flow Maps | In Progress |
-| 03. Distribution & Reliability | Utility operator footprints, energy loss factors, and regional reliability metrics. | Comparative BI Cards | Planned |
-| 04. Wholesale Energy Market | Spot price volatility ($/kWh), hydro reservoir stress, and dispatch merit order. | Time-Series Quant Models | Planned |
+| **01** | [`/Generation`](./Market_Modules/LATAM/Colombia/Generation) | Asset mapping, thermal vs. hydro baseload, solar pipeline through 2033. | Interactive Executive Dashboard & Spatial EDA | **Live** |
+| **02** | [`/Transmision`](./Market_Modules/LATAM/Colombia/Transmision) | Regional transmission congestion nodes, tie-lines, and substation capacity. | Network Topology Maps | *In Progress* |
+| **03** | [`/Distribucion`](./Market_Modules/LATAM/Colombia/Distribucion) | Utility operator footprints, energy loss factors, and regional reliability metrics. | Benchmarking BI Cards | *Planned* |
+| **04** | [`/Mercado_Energetico`](./Market_Modules/LATAM/Colombia/Mercado_Energetico) | Spot price volatility ($/kWh), reservoir stress, and dispatch merit order. | Time-Series Quant Models | *Planned* |
 
 ---
 
