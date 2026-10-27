@@ -18,15 +18,22 @@ The analysis utilizes official infrastructure datasets (UPME, XM, and SUI) proce
 
 ## 1. Generation System Analysis in Colombia
 
-![SIN Generation Overview](../Assets/SIN%20generacion.png)
-
 The spatial distribution of the SIN reflects a distinct geographic divide: hydroelectric power sustains base-load supply across the Andean inland, whereas solar photovoltaic developments and thermal backup infrastructure form a high-density cluster along the Caribbean Coast. This spatial configuration highlights the onset of a decentralized energy transition expanding beyond the traditional Andean axis.
 
 ### Historical Matrix Evolution & Net Effective Capacity
 
-The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anchored by hydroelectric power and thermal backup, the fleet now exhibits accelerating technological diversification.
+The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anchored by hydroelectric power and thermal backup, the fleet now exhibits accelerating technological diversification alongside regional concentration across key departments.
 
-![Technology Breakdown](../Assets/Tecnolog%C3%ADas.png)
+<table border="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; width: 50%; padding-right: 10px; vertical-align: top;">
+      <img src="../Assets/Tecnolog%C3%ADas.png" alt="Technology Breakdown" width="100%" />
+    </td>
+    <td style="border: none; width: 50%; padding-left: 10px; vertical-align: top;">
+      <img src="../Assets/CapacityByDept.png" alt="Capacity by Department" width="100%" />
+    </td>
+  </tr>
+</table>
 
 - **Decadal Expansion Trends:** For over five decades, Colombia’s power matrix maintained steady growth dominated almost exclusively by large hydroelectric reservoirs and thermal power plants. However, starting this decade, the rapid entry of non-conventional renewable energy (FNCER) technologies has begun shifting the cumulative expansion profile.
 
@@ -38,13 +45,11 @@ The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anch
 
 ![Added Capacity Trends](../Assets/AddedCapacity.png)
 
-- **Technology Shift In Recent Triennium:** While previous expansion cycles (1980–2015) relied on alternating cycles between large-reservoir hydro and gas/coal thermal units, project entries over the recent triennium are heavily dominated by solar photovoltaic technology.
+- **Technology Shift in Recent Triennium:** While previous expansion cycles (1980–2015) relied on alternating cycles between large-reservoir hydro and gas/coal thermal units, project entries over the recent triennium are heavily dominated by solar photovoltaic technology.
 
 - **Fleet Fragmentation & Grid Operations:** There is a clear structural trend toward generation fleet fragmentation. While the 20th century was defined by individual mega-projects delivering hundreds or thousands of megawatts, new developments consist primarily of small and medium-scale solar farms and self-generation facilities (averaging under 20–50 MW). This introduces novel operational challenges for the National Dispatch Center (CND) regarding dispatch control, system inertia, and frequency regulation.
   
 - **Geographic Breakdown of Capacity:** Antioquia, Cundinamarca, and Atlántico concentrate nearly 50% of the country’s Net Effective Capacity. Antioquia retains its historical leadership due to the extensive hydroelectric utilization of its river basins.
-
-![Capacity by Department](../Assets/CapacityByDept.png)
 
 - **Regional Shifting of New Additions:** Isolating capacity added in recent years reveals a radically different generation geography: Atlántico, Bolívar, and Cesar lead new capacity additions, driven by exceptional solar irradiance levels. Traditionally hydroelectric departments like Antioquia show only marginal contributions to net installed capacity additions over this recent window.
 
