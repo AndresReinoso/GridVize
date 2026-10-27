@@ -54,7 +54,7 @@ The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anch
 
 ![New Capacity Leaders](../Assets/NewCapLeaders.png)
 
-> Full Notebook Execution: [View Generation System Analysis Notebook](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/An%C3%A1lisis%20Sistema%20de%20Generaci%C3%B3n%20en%20Colombia.ipynb)
+> Full Notebook Execution: [View Generation System Analysis Notebook](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/An%C3%A1lisis%20Sistema%20de%20Generaci%C3%B3n%20en%20ColombiaV2.ipynb)
 
 ---
 
