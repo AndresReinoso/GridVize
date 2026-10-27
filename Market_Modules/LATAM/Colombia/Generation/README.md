@@ -14,7 +14,7 @@ The analysis utilizes official infrastructure datasets (UPME, XM, and SUI) proce
 
 ## 1. Generation System Analysis in Colombia
 
-![SIN Generation Overview](../../Assets/SIN%20generacion.png)
+![SIN Generation Overview](../Assets/SIN%20generacion.png)
 
 The spatial distribution of the SIN reflects a distinct geographic divide: hydroelectric power sustains base-load supply across the Andean inland, whereas solar photovoltaic developments and thermal backup infrastructure form a high-density cluster along the Caribbean Coast. This spatial configuration highlights the onset of a decentralized energy transition expanding beyond the traditional Andean axis.
 
@@ -22,17 +22,17 @@ The spatial distribution of the SIN reflects a distinct geographic divide: hydro
 
 The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anchored by hydroelectric power and thermal backup, the fleet now exhibits accelerating technological diversification.
 
-![Technology Breakdown](../../Assets/Tecnolog%C3%ADas.png)
+![Technology Breakdown](../Assets/Tecnolog%C3%ADas.png)
 
 * **Decadal Expansion Trends:** For over five decades, Colombia’s power matrix maintained steady growth dominated almost exclusively by large hydroelectric reservoirs and thermal power plants. However, starting this decade, the rapid entry of non-conventional renewable energy (FNCER) technologies has begun shifting the cumulative expansion profile.
 
 * **Annual Commissioning Velocity:** Between 1900 and 2020, asset additions occurred discretely and spaced out over time. Since 2021, the annual volume of operational plant additions has grown exponentially, setting a historic record in absolute commissioning events during the recent period.
   
-![Project Commissioning Velocity](../../Assets/ProjectCommissioning.png)
+![Project Commissioning Velocity](../Assets/ProjectCommissioning.png)
 
 * **Capacity Additions Volatility:** Despite the high volume of recent additions, net annual capacity additions exhibit significant year-over-year variations. The capacity peak reached in 2022 represents the highest single inflection point for large-scale infrastructure additions in the country's recent history.
 
-![Added Capacity Trends](../../Assets/AddedCapacity.png)
+![Added Capacity Trends](../Assets/AddedCapacity.png)
 
 
 * **Technology Shift in Recent Triennium:** While previous expansion cycles (1980–2015) relied on alternating cycles between large-reservoir hydro and gas/coal thermal units, project entries over the recent triennium are heavily dominated by solar photovoltaic technology.
@@ -43,7 +43,7 @@ The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anch
   
 * **Geographic Breakdown of Capacity:** Antioquia, Cundinamarca, and Atlántico concentrate nearly 50% of the country’s Net Effective Capacity. Antioquia retains its historical leadership due to the extensive hydroelectric utilization of its river basins.
 * 
-![Regional Breakdown](../../Assets/RegionalBreakdown.png)
+![Regional Breakdown](../Assets/RegionalBreakdown.png)
 
 * * **Regional Shifting of New Additions:** Isolating capacity added in recent years reveals a radically different generation geography: Atlántico, Bolívar, and Cesar lead new capacity additions, driven by exceptional solar irradiance levels. Traditionally hydroelectric departments like Antioquia show only marginal contributions to net installed capacity additions over this recent window.
  
@@ -61,11 +61,11 @@ This file provides valuable structured data regarding project build-out stages, 
 
 * **Pipeline Dominance:** The active construction pipeline confirms that solar PV remains the dominant technology, alongside a notable emergence of wind energy projects and run-of-river small hydro installations. The SIN is projected to integrate approximately **2,600 MW of additional capacity by 2029**, marking a historical milestone for annual plant construction volume.
 
-![Pipeline Entry](../../Assets/PipelineEntry.png)
+![Pipeline Entry](../Assets/PipelineEntry.png)
 
 * **Decentralization Trends (2027–2033):** Analyzing regional expansion capacity shows that spatial decentralization persists. During the 2027–2033 horizon, the primary capacity drivers are Córdoba, Cesar, and Huila, which combined account for nearly 50% of incoming generation capacity.
 
-![New Projects Breakdown by Department](../../Assets/NewProjectBrkdDept.png)
+![New Projects Breakdown by Department](../Assets/NewProjectBrkdDept.png)
 
 > Full Notebook Execution: [View Project Pipeline Registry Notebook](./Registro%20Activos%20Proyectos%20Generaci%C3%B3n%20-%20Ago%202026.ipynb)
 
