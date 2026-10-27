@@ -26,7 +26,7 @@ GridVize standardizes heterogeneous energy datasets into modular regional implem
 
 | Market Module | Region / System | Primary Grid Authorities | Capabilities & Status |
 | :--- | :--- | :--- | :--- |
-| Module 01: LATAM - Colombia | National Interconnected System (SIN) | UPME / XM / SUI | Live: Asset mapping (22+ GW capacity), solar expansion velocity (2020–2033), dispatch merit order. |
+| Module 01: LATAM - Colombia [`/Generation`]| National Interconnected System (SIN) | UPME / XM / SUI | Live: Asset mapping (22+ GW capacity), solar expansion velocity (2020–2033), dispatch merit order. |
 
 ---
 
