@@ -4,13 +4,7 @@
 
 # Global Market Modules
 
-GridVize categorizes power systems worldwide into standardized geographic and regulatory market modules. By abstracting heterogeneous grid operators, transmission topologies, and wholesale market mechanisms into unified data models, GridVize enables cross-regional quantitative analytics and executive visibility.
-
----
-
-## Global Grid Architecture & Target Markets
-
-Power markets globally face unique structural drivers, regulatory regimes, and transition bottlenecks:
+Each region operates under distinct market structures, facing unique structural drivers, regulatory regimes, and transition bottlenecks:
 
 * **North America (RTO/ISO Networks):** Competitive deregulated wholesale markets (CAISO, ERCOT, PJM, MISO) characterized by complex nodal locational marginal pricing (LMP), rapid storage integration, and severe interconnect queue backlogs.
 * **Europe (ENTSO-E):** High degree of cross-border market coupling across Synchronous Area Continental Europe, driven by ambitious offshore wind targets, carbon pricing mechanisms (EU ETS), and evolving capacity remuneration mechanisms.
