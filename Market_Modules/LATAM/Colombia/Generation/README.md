@@ -46,7 +46,7 @@ The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anch
 - **Technology Shift in Recent Triennium:** While previous expansion cycles (1980–2015) relied on alternating cycles between large-reservoir hydro and gas/coal thermal units, project entries over the recent triennium are heavily dominated by solar photovoltaic technology.
   
 - **Geographic Breakdown of Capacity:** Antioquia, Cundinamarca, and Atlántico concentrate nearly 50% of the country’s Net Effective Capacity. Antioquia retains its historical leadership due to the extensive hydroelectric utilization of its river basins.
-- 
+  
 ![Regional Breakdown](../Assets/RegionalBreakdown.png)
 
 - **Regional Shifting of New Additions:** Isolating capacity added in recent years reveals a radically different generation geography: Atlántico, Bolívar, and Cesar lead new capacity additions, driven by exceptional solar irradiance levels. Traditionally hydroelectric departments like Antioquia show only marginal contributions to net installed capacity additions over this recent window.
