@@ -4,7 +4,7 @@
 
   ### Visual Data Intelligence for Global Energy Systems
 
-  Executive Overview | Market Modules | System Architecture | Tech Stack | Author & Services
+  Executive Overview | Market Deployment | System Architecture | Tech Stack | Author & Services
 
 </div>
 
@@ -16,25 +16,23 @@ GridVize is an open-source data engine built to turn raw power grid APIs and com
 
 Developed under the Logikoo data engineering umbrella, GridVize provides a standardized, market-agnostic framework for analyzing power generation, transmission constraints, and wholesale spot market dynamics across regional grid operators. By decoupling raw data ingestion from the visualization layer, it converts messy, multi-source government records into real-time executive visibility and quantitative market models.
 
-> Interactive Portal: Access the Live GridVize Looker Studio Dashboard
+> Interactive Portal: Access the Live GridVize Looker Studio Dashboard  
+> Built for Scalable Impact: Serving as an enterprise-grade data pipeline case study for Logikoo BI Solutions and an open educational framework under Not3x10.
 
 ---
 
-## Market Modules & Regional Scope
+## Market Deployment & Scalability
 
-GridVize standardizes heterogeneous energy datasets into modular regional implementations:
+GridVize decouples raw data extraction from the analytical reporting layer, enforcing a uniform data schema designed to scale across different regional electricity frameworks:
 
-| Market Module | Region / System | Primary Grid Authorities | Capabilities & Status |
-| :--- | :--- | :--- | :--- |
-| Module 01: LATAM - Colombia | National Interconnected System (SIN) | UPME / XM / SUI | Live: Asset mapping (22+ GW capacity), solar expansion velocity (2020–2033), dispatch merit order. |
-| Module 02: North America | ERCOT (Texas) | ERCOT / EIA | Planned: Real-time nodal pricing (LMP), wind/solar curtailment, regional congestion. |
-| Module 03: Europe | ENTSO-E Framework | ENTSO-E Transparency Platform | Planned: Cross-border transfer capacity, European day-ahead market price coupling. |
+* Active Implementation (Module 01: LATAM - Colombia SIN): Ingests official UPME, XM, and SUI datasets to model 22+ GW of net installed capacity, solar transition velocity through 2033, and wholesale market dispatch mechanics.
+* Engine Architecture: Built using standardized data transformation pipelines (UTC time-series normalization, EPSG spatial reprojection to WGS84, and MW/GWh unit standardization) engineered to adapt seamlessly to other regional grid operators (such as ERCOT or ENTSO-E) using the same core processing engine.
 
 ---
 
 ## System Architecture (Module 01: LATAM - Colombia SIN)
 
-Inside each regional module, the grid is modeled across four core operational pillars:
+Inside the active LATAM module, the power system is structured across four core operational pillars:
 
 | Module Pillar | Focus & Analytical Scope | Primary Output | Status |
 | :--- | :--- | :--- | :--- |
