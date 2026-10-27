@@ -20,7 +20,7 @@ The Colombia module is structured across four core operational pillars:
 
 | Pillar | Chapter Directory | Scope & Focus | Deliverables | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | [`/Generacion`](./Generacion) | Asset mapping, thermal vs. hydro baseload, solar pipeline through 2033. | Interactive Executive Dashboard & Spatial EDA | **Live** |
+| **01** | [`/Generation`](./Generation) | Asset mapping, thermal vs. hydro baseload, solar pipeline through 2033. | Interactive Executive Dashboard & Spatial EDA | **Live** |
 | **02** | [`/Transmision`](./Transmision) | Regional transmission congestion nodes, tie-lines, and substation capacity. | Network Topology Maps | *In Progress* |
 | **03** | [`/Distribucion`](./Distribucion) | Utility operator footprints, energy loss factors, and regional reliability metrics. | Benchmarking BI Cards | *Planned* |
 | **04** | [`/Mercado_Energetico`](./Mercado_Energetico) | Spot price volatility ($/kWh), reservoir stress, and dispatch merit order. | Time-Series Quant Models | *Planned* |
