@@ -54,7 +54,7 @@ The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anch
 
 ![New Capacity Leaders](../Assets/NewCapLeaders.png)
 
-> Full Notebook Execution: [View Generation System Analysis Notebook](./An%C3%A1lisis%20Sistema%20de%20Generaci%C3%B3n%20en%20Colombia.ipynb)
+> Full Notebook Execution: [View Generation System Analysis Notebook](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/An%C3%A1lisis%20Sistema%20de%20Generaci%C3%B3n%20en%20Colombia.ipynb)
 
 ---
 
@@ -74,7 +74,7 @@ This file provides valuable structured data regarding project build-out stages, 
 
 ![New Projects Breakdown by Department](../Assets/NewProjectBrkdDept.png)
 
-> Full Notebook Execution: [View Project Pipeline Registry Notebook](./Registro%20Activos%20Proyectos%20Generaci%C3%B3n%20-%20Ago%202026.ipynb)
+> Full Notebook Execution: [View Project Pipeline Registry Notebook](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Registro%20Activos%20Proyectos%20Generaci%C3%B3n%20-%20Ago%202026.ipynb)
 
 ---
 
