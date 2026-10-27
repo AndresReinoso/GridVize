@@ -16,7 +16,7 @@ GridVize is an open-source data engine built to turn raw power grid APIs and com
 
 Developed under the Logikoo data engineering umbrella, GridVize provides a standardized, market-agnostic framework for analyzing power generation, transmission constraints, and wholesale spot market dynamics across regional grid operators. By decoupling raw data ingestion from the visualization layer, it converts messy, multi-source government records into real-time executive visibility and quantitative market models.
 
-> 📊 **Interactive Portal:** [Access the Live GridVize Looker Studio Dashboard](https://datastudio.google.com/reporting/3fb79ecb-bc6c-4257-b36e-5ea239e293e8/page/p_ec8rc56o8d)
+> **Interactive Portal:** [Access the Live GridVize Looker Studio Dashboard](https://datastudio.google.com/reporting/3fb79ecb-bc6c-4257-b36e-5ea239e293e8/page/p_5xthvz1o8d)
 
 ---
 
