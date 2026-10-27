@@ -54,13 +54,15 @@ The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anch
 
 ![New Capacity Leaders](../Assets/NewCapLeaders.png)
 
+**Does the future pipeline reinforce this decentralization, or will traditional Andean hubs reclaim dominance?**
+
 > Full Notebook Execution: [View Generation System Analysis Notebook](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/An%C3%A1lisis%20Sistema%20de%20Generaci%C3%B3n%20en%20ColombiaV2.ipynb)
 
 ---
 
 ## 2. Active Generation Project Pipeline
 
-To address key questions emerging from the previous analysis, this section evaluates whether active project pipelines under construction or registry maintain this strong solar component. To investigate this, we processed UPME’s official active registry report for power generation projects. The dataset used reflects a cutoff date of **August 30, 2026** (note: this file is updated monthly by UPME and requires continuous ingestion).
+To address the key question emerging from the previous analysis, this section evaluates whether active project pipelines under construction or registry maintain this strong solar component. To investigate this, we processed UPME’s official active registry report for power generation projects. The dataset used reflects a cutoff date of **August 30, 2026** (note: this file is updated monthly by UPME and requires continuous ingestion).
 
 This file provides valuable structured data regarding project build-out stages, geographic locations, primary energy resources, and technology types.
 
