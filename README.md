@@ -36,10 +36,10 @@ Inside each regional module, the grid is modeled across four core operational pi
 
 | Module Pillar | Focus & Analytical Scope | Primary Output | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | [Generation](./Market%20Modules/LATAM/Colombia/Generation) | Asset mapping, thermal vs. hydro baseload, solar pipeline through 2033. | **Live** |
-| **02** | [Transmision](./Transmision) | Regional transmission congestion nodes, tie-lines, and substation capacity. | *In Progress* |
-| **03** | [Distribucion](./Distribucion) | Utility operator footprints, energy loss factors, and regional reliability metrics. | *Planned* |
-| **04** | [Mercado Energetico](./Mercado_Energetico) | Spot price volatility ($/kWh), reservoir stress, and dispatch merit order. | *Planned* |
+| **01** | [`/Generation`](./Market_Modules/LATAM/Colombia/Generation) | Asset mapping, thermal vs. hydro baseload, solar pipeline through 2033. | **Live** |
+| **02** | [`/Transmision`](./Market_Modules/LATAM/Colombia/Transmision) | Regional transmission congestion nodes, tie-lines, and substation capacity. | *In Progress* |
+| **03** | [`/Distribucion`](./Market_Modules/LATAM/Colombia/Distribucion) | Utility operator footprints, energy loss factors, and regional reliability metrics. | *Planned* |
+| **04** | [`/Mercado Energetico`](./Market_Modules/LATAM/Colombia/Mercado_Energetico) | Spot price volatility ($/kWh), reservoir stress, and dispatch merit order. | *Planned* |
 ---
 
 ## Tech Stack & Methodologies
