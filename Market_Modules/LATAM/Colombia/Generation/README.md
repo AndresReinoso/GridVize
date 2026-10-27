@@ -33,7 +33,7 @@ The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anch
 
 <br />
 
-- **Decadal Expansion Trends:** For over five decades, Colombia’s power matrix maintained steady growth dominated almost exclusively by large hydroelectric reservoirs and thermal power plants. However, starting this decade, the rapid entry of non-conventional renewable energy (FNCER) technologies has begun shifting the cumulative expansion profile.
+- **Expansion Trends:** For over five decades, Colombia’s power matrix maintained steady growth dominated almost exclusively by large hydroelectric reservoirs and thermal power plants. However, starting this decade, the rapid entry of non-conventional renewable energy (FNCER) technologies has begun shifting the cumulative expansion profile.
 
 - **Annual Commissioning Velocity:** Between 1900 and 2020, asset additions occurred discretely and spaced out over time. Since 2021, the annual volume of operational plant additions has grown exponentially, setting a historic record in absolute commissioning events during the recent period.
   
