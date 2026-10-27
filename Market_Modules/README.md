@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../Assets/GridVize_Logo.png" alt="GridVize Logo" width="300"/>
+  <img src="../../Assets/GridVize_Logo.png" alt="GridVize Logo" width="300"/>
 </p>
 
 # LATAM Power Markets
