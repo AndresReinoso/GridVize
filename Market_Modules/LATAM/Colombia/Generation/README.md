@@ -24,13 +24,13 @@ The spatial distribution of the SIN reflects a distinct geographic divide: hydro
 
 The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anchored by hydroelectric power and thermal backup, the fleet now exhibits accelerating technological diversification alongside regional concentration across key departments.
 
-<table border="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none; width: 48%; vertical-align: top;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; width: 48%; vertical-align: top; padding: 0;">
       <img src="../Assets/Tecnolog%C3%ADas.png" alt="Technology Breakdown" width="100%" />
     </td>
-    <td style="border: none; width: 4%;"></td>
-    <td style="border: none; width: 48%; vertical-align: top;">
+    <td style="border: none; width: 4%; padding: 0;"></td>
+    <td style="border: none; width: 48%; vertical-align: top; padding: 0;">
       <img src="../Assets/CapacityByDept.png" alt="Capacity by Department" width="100%" />
     </td>
   </tr>
