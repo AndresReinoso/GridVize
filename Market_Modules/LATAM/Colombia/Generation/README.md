@@ -22,8 +22,7 @@ The spatial distribution of the SIN reflects a distinct geographic divide: hydro
 
 ### Historical Matrix Evolution & Net Effective Capacity
 
-The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anchored by hydroelectric power and thermal backup, the fleet now exhibits accelerating technological diversification alongside regional concentration across key departments, we notice that Antioquia, Cundinamarca, Atlantico and Santander concentrate the majority of the generation capacity.
-
+The SIN has surpassed **22,229 MW of Net Effective Capacity**. Historically anchored by hydroelectric power and thermal backup, and hevily concentrated on Antioquia and Cundinamarca, the fleet now exhibits accelerating technological diversification.
 <br />
 
 <p align="left" style="margin-top: 20px; margin-bottom: 20px;">
