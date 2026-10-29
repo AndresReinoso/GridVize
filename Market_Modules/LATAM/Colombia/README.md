@@ -8,7 +8,7 @@ Welcome to the Colombia national module for **GridVize**. This directory houses 
 
 ## National System Overview & Key Authorities
 
-* **Target Grid Authorities:** UPME (Unidad de Planeación Minero Energética), XM S.A. E.S.P. (National Dispatch Center - CND), and SUI (Sistema Único de Información).
+* **Target Grid Authorities:** UPME (Unidad de Planeación Minero Energética), XM S.A. E.S.P. (National Dispatch Center - CND).
 * **Active System Scale:** 25,100+ MW Net Effective Capacity across hydro, thermal, solar, and wind assets.
 * **Core Analytical Focus:** Renewable energy transition (FNCER), regional asset distribution, solar commissioning velocity through 2033, and wholesale market dispatch mechanics.
 
